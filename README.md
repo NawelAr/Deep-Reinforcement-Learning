@@ -1,4 +1,4 @@
-# Reinforcement-Learning
+# Deep Reinforcement Learning for Multi-Agent Systems
 
 The work was based on the research article "Deep Reinforcement Learning for Multi-Agent Systems: A Review of Challenges, Solutions and Applications". 
 
